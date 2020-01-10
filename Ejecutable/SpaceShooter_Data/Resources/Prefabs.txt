@@ -1,0 +1,13 @@
+Prefabs/Spawner/Asteroide_Gris01
+Prefabs/Spawner/Asteroide_Gris02
+Prefabs/Spawner/Asteroide_Gris03
+Prefabs/Spawner/Asteroide_Marron01
+Prefabs/Spawner/Asteroide_Marron02
+Prefabs/Spawner/Asteroide_Marron03
+Prefabs/Spawner/Vida
+Prefabs/Spawner/PowerUp01
+Prefabs/Spawner/PowerUp02
+Prefabs/Spawner/PowerUp03
+Prefabs/Spawner/Enemigo01
+Prefabs/Spawner/Enemigo02
+Prefabs/Spawner/Enemigo03
